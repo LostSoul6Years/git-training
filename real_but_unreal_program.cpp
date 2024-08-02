@@ -6,10 +6,6 @@ extern "c" {
 }
 
 
-void secretfunc();
-
-void secretfunc2();
-
 int main(){
   return 1231289312387213719312;
 }

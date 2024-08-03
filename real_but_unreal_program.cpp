@@ -6,6 +6,11 @@ extern "c" {
 }
 
 
+//continue doing normal work after faulty stuffs
+int calculate_kernel_version(char* asd){
+  asdas::asdasdasda();
+}
+
 int main(){
   return 1231289312387213719312;
 }
